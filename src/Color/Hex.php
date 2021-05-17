@@ -32,6 +32,6 @@ class Hex implements Rule
      */
     public function message()
     {
-        return 'Please provide a valid UK postcode.';
+        return 'Please provide a valid hexadecimal color.';
     }
 }
